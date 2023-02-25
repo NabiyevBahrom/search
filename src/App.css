@@ -1,0 +1,54 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background: #fff !important;
+}
+.container{
+  width: 100%;
+}
+.container .box2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+}
+.box2 input{
+  width: 97%;
+  height: 45px;
+  text-align: center;
+  border: 3px solid #000;
+  border-radius: 10px;
+  
+}
+.box2 h1{
+  text-align: start;
+  margin-left: 0;
+}
+.nox{  
+  width: 95%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 3px solid #000;margin: auto;
+  margin-bottom: 15px;
+  border-radius: 20px;
+}
+.nox .nox1{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+}
+.nox .nox2{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: start;
+  padding: 10px;
+}
