@@ -19,7 +19,6 @@ body{
 .box2 input{
   width: 97%;
   height: 45px;
-  text-align: center;
   border: 3px solid #000;
   border-radius: 10px;
   
@@ -34,7 +33,8 @@ body{
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  border: 3px solid #000;margin: auto;
+  border: 3px solid #000;
+  margin: auto;
   margin-bottom: 15px;
   border-radius: 20px;
 }
